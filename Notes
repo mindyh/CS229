@@ -1,0 +1,27 @@
+ToDo:
+Mindy - write GetPOInearStation - a list of POI objects with distance from station. 
+      - Make Git REPO
+Chris - get station coordinates, create station objects
+      - Learn fucking Git.
+both - how to apply equations???
+
+1. Determine ridership 
+	- Unlinked Passenger Trips / Population
+	- Top 10% regions as training data
+
+
+
+
+grid of nodes, assign each node a weight, choose 20 node for stations that maximizesutility (where utility is also a function of how close 2 chosen stations are and how close the station is to a POI)
+
+
+Weighting
+---------------
+Classify each POI. Learn the optimal distance from each POI.
+
+
+
+optimization - disregard all nodes less than a threshold
+
+
+3. dijkstra to find route
