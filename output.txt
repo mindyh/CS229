@@ -1,0 +1,245 @@
+{
+   "lat_lng": {
+      "lat": 33.8352932,
+      "lng": -117.9145036
+   },
+   "name": "Anaheim",
+   "types": [
+      "locality",
+      "political"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.764235,
+      "lng": -118.201306
+   },
+   "name": "California State University System",
+   "types": [
+      "university",
+      "school",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.883164,
+      "lng": -117.886852
+   },
+   "name": "California State University Fullerton",
+   "types": [
+      "university",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.818323,
+      "lng": -118.144566
+   },
+   "name": "Long Beach Airport",
+   "types": [
+      "airport",
+      "transit_station",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.805881,
+      "lng": -117.91951
+   },
+   "name": "Disney California Adventure Park",
+   "types": [
+      "amusement_park",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.681102,
+      "lng": -117.859491
+   },
+   "name": "John Wayne Airport",
+   "types": [
+      "airport",
+      "transit_station",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.807826,
+      "lng": -117.876542
+   },
+   "name": "Honda Center",
+   "types": [
+      "stadium",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.810486,
+      "lng": -117.919
+   },
+   "name": "Disneyland Resort",
+   "types": [
+      "lodging",
+      "amusement_park",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.864114,
+      "lng": -118.258052
+   },
+   "name": "California State University Dominguez Hills",
+   "types": [
+      "university",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.864375,
+      "lng": -118.261067
+   },
+   "name": "StubHub Center",
+   "types": [
+      "stadium",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.752636,
+      "lng": -118.190323
+   },
+   "name": "The Queen Mary",
+   "types": [
+      "lodging",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.806902,
+      "lng": -117.923274
+   },
+   "name": "Disney's Grand Californian Hotel & Spa",
+   "types": [
+      "lodging",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.783824,
+      "lng": -118.11409
+   },
+   "name": "California State University Long Beach",
+   "types": [
+      "university",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.800119,
+      "lng": -117.883064
+   },
+   "name": "Angel Stadium of Anaheim",
+   "types": [
+      "stadium",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.763056,
+      "lng": -117.868123
+   },
+   "name": "Bowers Museum",
+   "types": [
+      "museum",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.725741,
+      "lng": -117.885042
+   },
+   "name": "Mater Dei High School",
+   "types": [
+      "school",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.692294,
+      "lng": -117.888735
+   },
+   "name": "South Coast Plaza Shopping Center",
+   "types": [
+      "shopping_mall",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.844385,
+      "lng": -117.998659
+   },
+   "name": "Knott's Berry Farm",
+   "types": [
+      "amusement_park",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.905613,
+      "lng": -118.018041
+   },
+   "name": "Biola University",
+   "types": [
+      "university",
+      "school",
+      "establishment"
+   ]
+}
+
+{
+   "lat_lng": {
+      "lat": 33.768321,
+      "lng": -118.1956168
+   },
+   "name": "Long Beach",
+   "types": [
+      "locality",
+      "political"
+   ]
+}
+
