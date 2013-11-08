@@ -37,3 +37,9 @@ nosetests.xml
 
 # secret
 client_secrets.json
+
+# dropbox
+.dropbox.attr
+
+# excel files
+*.xls

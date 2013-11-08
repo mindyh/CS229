@@ -1,3 +1,32 @@
+11/7/13
+
+TODO (By friday):
+	- Outline the milestone project (Monday)
+	- Write the milestone, 2-3pg (Friday 5pm)
+	- Scrape census data
+	- put all data together and output into matlab format
+	- write the regression algorithm in Matlab
+
+
+NOTES:
+
+Model - linear regression
+
+Features of station - has library, has stadium, (binary indicator for each POI), percent demographic_1, percent demographic_2, etc.
+
+features of city - distance of each station from each other
+
+Output variable y - ridership of district as a whole
+
+test of how good the model is - predict ridership of the city. Check to see if it matches the actual ridership
+
+
+
+-------------------------
+
+10/13
+
+
 ToDo:
 Mindy - write GetPOInearStation - a list of POI objects with distance from station. 
       - Make Git REPO
